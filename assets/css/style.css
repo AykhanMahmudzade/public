@@ -464,3 +464,18 @@ img{
     display: flex;
     width: 100%;
 }
+
+/* media at the end */
+
+
+@media(min-width:768px){
+.introduction .intro-right-side img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+}
+@media(min-width:1080px){
+}
